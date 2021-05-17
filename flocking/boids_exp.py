@@ -1,3 +1,7 @@
+'''
+Testing exponential based method
+'''
+
 import numpy as np
 from matplotlib import animation
 from matplotlib import pyplot as plt
