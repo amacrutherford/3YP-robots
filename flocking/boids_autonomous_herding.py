@@ -1,3 +1,9 @@
+'''
+Flocking test for 3YP
+
+Testing method used in Autonomous herding paper
+'''
+
 import numpy as np
 from matplotlib import animation
 from matplotlib import pyplot as plt
